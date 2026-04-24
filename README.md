@@ -10,7 +10,7 @@ A simple, lightweight CLI tool to store and manage daily journal entries using a
 
 ## Schema Overview
 
-The database uses a single table called `entries`.
+The database uses a single table called `entries`
 
 | Column | Type | Description |
 | :--- | :--- | :--- |
