@@ -19,7 +19,7 @@ The database uses a single table called `entries`.
 | `content` | TEXT | The actual journal entry text. |
 | `created_at` | TIMESTAMP | The exact time the entry was recorded (defaults to `CURRENT_TIMESTAMP`). |
 
-## Usage
+## Usage .
 
 ### 1. Add an entry
 ```bash
