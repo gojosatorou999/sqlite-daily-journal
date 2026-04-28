@@ -8,7 +8,7 @@ A simple, lightweight CLI tool to store and manage daily journal entries using a
 - **CLI Interface**: Easy to use commands for adding, listing, and searching entries.
 - **SQLite Backend**: Efficient storage in a single portable database file.
 
-## Schema Overview
+## Schema Overview :
 
 The database uses a single table called `entries`.
 
