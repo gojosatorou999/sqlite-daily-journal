@@ -3,7 +3,7 @@
 A simple, lightweight CLI tool to store and manage daily journal entries using an SQLite database.
 
 ## Features 
-
+  
 - **Daily Logging**: Automatically timestamps entries with today's date.
 - **CLI Interface**: Easy to use commands for adding, listing, and searching entries.
 - **SQLite Backend**: Efficient storage in a single portable database file.
